@@ -36,6 +36,8 @@ Goal Tracker assists users in creating and managing various types of goals. The 
 3 java GoalTracker
 
 ```
+### Operations
+Please see the PDF document which contains a run-through of how to use the application, [here:](https://github.com/plusplusminusminus/CS151-GoalTracker/blob/172e191bd651d99213495b667d52b1b6df08e3e9/20230509%20Tyler%20Moquin%20-%20CS151%20Final%20Project.pdf).
 
 #### References
 ```
